@@ -16,6 +16,8 @@ random_selection_augmented_jpg - same data in jpg format
 web_data_links - Google search links for selected plane types. Were not used.
 
 
+
+
 ### CNN models were deployed on two type of subsets of the large collected datasets.
 
 1) Balanced data selected from all_data_color and msf_data with the ratio, that 2/3 was from all_data_color, 1/6 from msf_data/image_data_rainy and 1/6 from msf_data/image_data_clear.
