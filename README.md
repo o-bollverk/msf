@@ -29,7 +29,7 @@ In each notebook, a random selection was made of
 #### Notebooks that used 2:
 resnet34_entire_unbalanced_dataset.ipynb 
 nomm_cnn.ipynb 
-
+nomm_cnn_with_augmentation.ipynb (used augmented data)
 ...
 
 #### Notebooks that used 1:
