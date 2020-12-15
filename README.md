@@ -1,8 +1,8 @@
 # msf
-
-## ML project with the purpose of predicting plane types in Microsoft Flight Simulator using web images of planes
+### Machine Learning project with the purpose of predicting plane types in Microsoft Flight Simulator using web images of planes
 
 Folder info:
+
 all_data_bw - all online connected data from Jetphotos.com, transformed to black and white, organized in folders by plane class
 
 all_data_color - all online connected data from Jetphotos.com , colored, organized in folders by plane class
