@@ -1,5 +1,5 @@
 # msf
-### Machine Learning project with the purpose of predicting plane types in Microsoft Flight Simulator using web images of planes
+## Machine Learning project with the purpose of predicting plane types in Microsoft Flight Simulator using web images of planes
 
 Folder info:
 
@@ -15,7 +15,8 @@ random_selection_augmented_jpg - same data in jpg format
 
 web_data_links - Google search links for selected plane types. Were not used.
 
-CNN models were deployed on two type of subsets of the large collected datasets.
+
+### CNN models were deployed on two type of subsets of the large collected datasets.
 
 1) Balanced data selected from all_data_color and msf_data with the ratio, that 2/3 was from all_data_color, 1/6 from msf_data/image_data_rainy and 1/6 from msf_data/image_data_clear.
 In each notebook, a random selection was made of
@@ -23,13 +24,13 @@ In each notebook, a random selection was made of
 
 
 
-Notebooks that used 2:
+#### Notebooks that used 2:
 resnet34_entire_unbalanced_dataset.ipynb 
 nomm_cnn.ipynb 
 
 ...
 
-Notebooks that used 1:
+#### Notebooks that used 1:
 resnet_and_augmented_unbalanced_dataset.ipynb - resnet18, 34 and 50 were ran on the subset. Also, resnet18 was ran with 5 different types of data augmentation applied equally on all training and test images
 
 
