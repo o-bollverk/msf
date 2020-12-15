@@ -4,10 +4,15 @@
 
 Folder info:
 all_data_bw - all online connected data from Jetphotos.com, transformed to black and white, organized in folders by plane class
+
 all_data_color - all online connected data from Jetphotos.com , colored, organized in folders by plane class
+
 msf_data - data recorded in Microsoft Flight Simulator, orgnized in folders by plane class
+
 random_selection_augmented - random balanced selection of msf_data and all_data_color in png format, augmented with rembg https://pypi.org/project/rembg/
+
 random_selection_augmented_jpg - same data in jpg format
+
 web_data_links - Google search links for selected plane types. Were not used.
 
 CNN models were deployed on two type of subsets of the large collected datasets.
