@@ -1,5 +1,24 @@
 # msf
-## Machine Learning project with the purpose of predicting plane types in Microsoft Flight Simulator using web images of planes
+## Machine Learning project with the purpose of predicting plane types using recorded images from Microsoft Flight Simulator and photos from jetphotos.com
+
+Dependencies and packages used:
+
+Fastai 1.0.61 
+
+tensorflow 2.3.0
+
+tensorflow-addons 0.11.2
+
+tensorflow-datasets 4.1.0
+
+tensorflow-estimator 2.3.0
+
+tensorflow-hub 0.10.0
+
+tensorflow-metadata 0.25.0
+
+rembg (https://pypi.org/project/rembg/)
+## 
 
 Folder info:
 
@@ -15,8 +34,7 @@ random_selection_augmented_jpg - same data in jpg format
 
 web_data_links - Google search links for selected plane types. Were not used.
 
-
-
+##
 
 ### CNN models were deployed on two type of subsets of the large collected datasets.
 
@@ -35,7 +53,7 @@ nomm_cnn_with_augmentation.ipynb (used augmented data)
 #### Notebooks that used 1:
   resnet_and_augmented_unbalanced_dataset.ipynb - resnet18, 34 and 50 were ran on the subset. Also, resnet18 was ran with 5 different types of data augmentation applied equally on all training and test images
 
-
+# 
 tausta_eemaldus_gen.ipynb - for creating a bash script that calls rembg in the correct folders
 
 
