@@ -1,5 +1,5 @@
 # msf
-## Machine Learning project with the purpose of predicting plane types in Microsoft Flight Simulator using web images of planes
+## Machine Learning project with the purpose of predicting plane types using recorded images from Microsoft Flight Simulator and photos from jetphotos.com
 
 Folder info:
 
