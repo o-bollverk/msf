@@ -18,6 +18,11 @@ tensorflow-hub 0.10.0
 tensorflow-metadata 0.25.0
 
 rembg (https://pypi.org/project/rembg/)
+
+Hardware:
+
+GTX 1080 + Ryzen 2600x + 16 GB RAM
+
 ## 
 
 Folder info:
