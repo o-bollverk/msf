@@ -34,8 +34,7 @@ random_selection_augmented_jpg - same data in jpg format
 
 web_data_links - Google search links for selected plane types. Were not used.
 
-
-
+##
 
 ### CNN models were deployed on two type of subsets of the large collected datasets.
 
