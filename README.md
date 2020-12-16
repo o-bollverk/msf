@@ -1,6 +1,17 @@
 # msf
 ## Machine Learning project with the purpose of predicting plane types using recorded images from Microsoft Flight Simulator and photos from jetphotos.com
 
+Dependencies and packages used:
+
+Fastai 1.0.61 
+tensorflow 2.3.0
+tensorflow-addons 0.11.2
+tensorflow-datasets 4.1.0
+tensorflow-estimator 2.3.0
+tensorflow-hub 0.10.0
+tensorflow-metadata 0.25.0
+rembg (https://pypi.org/project/rembg/)
+
 Folder info:
 
 all_data_bw - all online connected data from Jetphotos.com, transformed to black and white, organized in folders by plane class
