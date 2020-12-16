@@ -4,13 +4,21 @@
 Dependencies and packages used:
 
 Fastai 1.0.61 
+
 tensorflow 2.3.0
+
 tensorflow-addons 0.11.2
+
 tensorflow-datasets 4.1.0
+
 tensorflow-estimator 2.3.0
+
 tensorflow-hub 0.10.0
+
 tensorflow-metadata 0.25.0
+
 rembg (https://pypi.org/project/rembg/)
+## 
 
 Folder info:
 
