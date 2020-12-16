@@ -33,7 +33,7 @@ nomm_cnn_with_augmentation.ipynb (used augmented data)
 ...
 
 #### Notebooks that used 1:
-resnet_and_augmented_unbalanced_dataset.ipynb - resnet18, 34 and 50 were ran on the subset. Also, resnet18 was ran with 5 different types of data augmentation applied equally on all training and test images
+  resnet_and_augmented_unbalanced_dataset.ipynb - resnet18, 34 and 50 were ran on the subset. Also, resnet18 was ran with 5 different types of data augmentation applied equally on all training and test images
 
 
 tausta_eemaldus_gen.ipynb - for creating a bash script that calls rembg in the correct folders
